@@ -1,0 +1,14 @@
+# Entornos y secretos
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+node_modules/
+dist/
+build/
+.DS_Store
+*.log
+.idea/
+.vscode/
